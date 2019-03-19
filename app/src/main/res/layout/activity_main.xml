@@ -4,6 +4,11 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:padding="20dp">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:text="欢迎来到吃货的世界\n请先检测是否有root权限后在执行shell命令脚本，否则无效"/>
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
